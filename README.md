@@ -1,4 +1,5 @@
 ## 유튜브 드림코딩엘리의 수업을 보고 연습한 코드를 정리한 레포지토리이입니다.
 
-![2000px-Badge_js-strict svg](https://user-images.githubusercontent.com/79818840/120580768-b22d0280-c464-11eb-8ea4-23815b93a256.png)
+![javascript-frameworks](https://user-images.githubusercontent.com/79818840/120580945-f15b5380-c464-11eb-8659-91b6f4f39d1e.jpg)
+
 
